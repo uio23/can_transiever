@@ -1,0 +1,2 @@
+default_fqbn: STMicroelectronics:stm32:GenH5
+default_port: /dev/ttyACM0
